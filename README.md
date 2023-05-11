@@ -1,2 +1,2 @@
 # ThreadPool
-achie for threadpool in linux
+achieve for threadpool in linux
